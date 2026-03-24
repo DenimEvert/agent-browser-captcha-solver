@@ -1,0 +1,6 @@
+{
+  "extension": ["./capsolver-extension"],
+  "sessionName": "capsolver-integration",
+  "headed": false,
+  "profile": "./browser-data"
+}
